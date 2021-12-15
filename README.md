@@ -2,7 +2,7 @@
 
 Übersicht über die Datein:
 - dynaslot.py: ursprüngliches System (mit kleinen Anpassungen um die Ausführung zu ermöglichen)
-- reactiveZMS.py: ursprüngliches System + Erweiterung (vollstädinge dokumentiert inklusive Änderungen )
+- reactiveZMS.py: ursprüngliches System + Erweiterung (vollständing dokumentiert inklusive Änderungen)
 - predictive Testbench: zum Testen der prädiktiven Ablaufplanung
 - reactive Testbench: zum Testen der reaktiven Optimierung
 
